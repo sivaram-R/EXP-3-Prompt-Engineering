@@ -210,6 +210,5 @@ ________________________________________
 •	Bard/Gemini → Best for beginners and quick answers, but weaker for technical/academic depth.
 •	Meta → Best for lightweight, basic responses, but needs improvement in depth and polish.
 
-  <img width="606" height="404" alt="image" src="https://github.com/user-attachments/assets/b931bf47-918a-4df9-9c53-3db3b56b9208" />
 
 
